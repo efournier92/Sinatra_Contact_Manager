@@ -2,7 +2,7 @@ We're going to work on changing a Sinatra application from using hard coded hash
 
 Active Record provides an interface for interacting with your database and converting your results directly into Ruby objects.
 
-### Getting Started
+#Contact Manager (Sinatra) 
 
 Clone and open the contact manager app:
 
